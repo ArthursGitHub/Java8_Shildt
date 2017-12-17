@@ -17,7 +17,7 @@ class Stats<T extends Number> {
         return sum / nums.length;
     }
 
-    boolean sameAvg(Stats<?> ob) {  // метасимвольный аргумент Stats<?> означает: любой(неизвестный) тип Stats<>
+    boolean sameAvg(Stats<?> ob) {  // метасимвольный аргумент Stats<?> означает: любой тип Stats<> , параметризированный любым типом
         if (average() == ob.average())
             return true;
 
