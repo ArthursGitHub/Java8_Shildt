@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8_Shildt.iml" filepath="$PROJECT_DIR$/Java8_Shildt.iml" />
+      
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/chapter_11.iml" filepath="$PROJECT_DIR$/chapter_11/chapter_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/chapter_14.iml" filepath="$PROJECT_DIR$/chapter_14/chapter_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/chapter_15.iml" filepath="$PROJECT_DIR$/chapter_15/chapter_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_000/listing_11_000.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_000/listing_11_000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_001/listing_11_001.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_001/listing_11_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_002/listing_11_002.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_002/listing_11_002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_05/listing_11_05.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_05/listing_11_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_07/listing_11_07.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_07/listing_11_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_08/listing_11_08.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_08/listing_11_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_09/listing_11_09.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_09/listing_11_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_10/listing_11_10.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_10/listing_11_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_11/listing_11_11/listing_11_11.iml" filepath="$PROJECT_DIR$/chapter_11/listing_11_11/listing_11_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_01/listing_14_01.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_01/listing_14_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_02/listing_14_02.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_02/listing_14_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_03/listing_14_03.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_03/listing_14_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_04/listing_14_04.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_04/listing_14_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_05/listing_14_05.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_05/listing_14_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_06/listing_14_06.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_06/listing_14_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_07/listing_14_07.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_07/listing_14_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_08/listing_14_08.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_08/listing_14_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_09/listing_14_09.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_09/listing_14_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_10/listing_14_10.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_10/listing_14_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_11/listing_14_11.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_11/listing_14_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_12/listing_14_12.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_12/listing_14_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_13/listing_14_13.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_13/listing_14_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_14/listing_14_14.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_14/listing_14_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_15/listing_14_15.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_15/listing_14_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_16/listing_14_16.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_16/listing_14_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_17/listing_14_17.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_17/listing_14_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_18/listing_14_18.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_18/listing_14_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_19/listing_14_19.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_19/listing_14_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_20/listing_14_20.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_20/listing_14_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_14/listing_14_21/listing_14_21.iml" filepath="$PROJECT_DIR$/chapter_14/listing_14_21/listing_14_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_01/listing_15_01.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_01/listing_15_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_02/listing_15_02.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_02/listing_15_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_03/listing_15_03.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_03/listing_15_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_04/listing_15_04.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_04/listing_15_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_05/listing_15_05.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_05/listing_15_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_06/listing_15_06.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_06/listing_15_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_07/listing_15_07.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_07/listing_15_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_08/listing_15_08.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_08/listing_15_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_09/listing_15_09.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_09/listing_15_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_09_1/listing_15_09_1.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_09_1/listing_15_09_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_10/listing_15_10.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_10/listing_15_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_11/listing_15_11.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_11/listing_15_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_12/listing_15_12.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_12/listing_15_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_12_1/listing_15_12_1.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_12_1/listing_15_12_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_13/listing_15_13.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_13/listing_15_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_14/listing_15_14.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_14/listing_15_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_15/listing_15_15.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_15/listing_15_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_16/listing_15_16.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_16/listing_15_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_17/listing_15_17.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_17/listing_15_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_15/listing_15_18/listing_15_18.iml" filepath="$PROJECT_DIR$/chapter_15/listing_15_18/listing_15_18.iml" />
+ 
+      
+    </modules>
+  </component>
+</project>
